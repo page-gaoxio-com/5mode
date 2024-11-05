@@ -52,7 +52,6 @@ a, a:hover, a:focus {
 }
 #content {
   width:100%;
-  min-width:800px;
   text-align:left; 
 }
 .bookmark-cont {
