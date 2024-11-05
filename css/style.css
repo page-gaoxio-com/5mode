@@ -1,0 +1,81 @@
+/*
+ * Copyright 2016, 2026 5 Mode. 
+ *
+ * This file is part of AboutPage.
+ *
+ * AboutPage is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * AboutPage is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.  
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with AboutPage. If not, see <https://www.gnu.org/licenses/>.
+ *
+ * style.css
+ * 
+ * AboutPage stylesheet.
+ *
+ * @author Daniele Bonini <my25mb@has.im>
+ * @copyrights (c) 2016, 2026, 5 Mode
+ */
+
+body {
+    background-color: #3b3e3f;
+    margin:30px;
+    font-size: 22px;
+    line-height: 30px;
+    color: #FFFFFF;    
+}
+a, a:hover, a:focus {
+   color: #FFFFFF;
+   font-weight: 900;
+}
+#bannerCookies {
+  position: fixed; 
+  top: 2000px; 
+  left:-10px;
+  width: 102%; 
+  border: 1px solid #C2DBF2; 
+  padding: 10px; 
+  background: #000000; 
+  color:white; 
+  font-family: Sans;
+  font-size: 12px; 
+  text-align: center; 
+  z-index: 19999;
+  display:none;
+}
+#content {
+  width:100%;
+  min-width:800px;
+  text-align:left; 
+}
+.bookmark-cont {
+  float:left;
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 80px;  
+}
+.donate, .donate:hover, .donate:focus{
+  color: darkorange;
+}
+h3 {
+  color: gold;
+  font-weight:900;
+}
+.master-table {
+  float:left;
+  width:33%; 
+  height:90%; 
+  vertical-align:top;
+}
+#wiz {
+  width:250px;
+  margin-left: 20px;
+}

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+<!--
+
+/**
+ * Copyright 2016, 2026 5 Mode.
+ *
+ * This file is part of AboutPage.
+ *
+ * AboutPage is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * AboutPage is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.  
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with AboutPage. If not, see <https://www.gnu.org/licenses/>.
+ *
+ * home.php
+ * 
+ * Home of AboutPage.
+ *
+ * @author Daniele Bonini <my25mb@has.im>
+ * @copyrights (c) 2016, 2026, 5 Mode
+ */
+
+-->  
+  
+  <title>about:page</title>
+
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+  <meta name="description" content="Welcome to the starting page of your web browser!"/>
+  <meta name="keywords" content="5 Mode,about:page"/>
+  <meta name="robots" content="index,follow"/>
+  <meta name="author" content="5 Mode"/>
+  
+  <script src="/js/jquery-3.6.0.min.js" type="text/javascript"></script>
+  <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/js/common.js" type="text/javascript"></script>  
+  <script src="/js/home.js" type="text/javascript"></script> 
+  
+  <link href="/css/bootstrap.min.css" type="text/css" rel="stylesheet">    
+  <link href="/css/style.css" type="text/css" rel="stylesheet">
+
+  <script>
+  window.addEventListener("load", function() {
+      if (window.innerWidth>1700) {
+        window.open("/index.html","_self");
+      } else if ((window.innerWidth<1700) && (window.innerWidth>800)) {
+        //window.open("/indext.html","_self");
+      } else if (window.innerWidth<800) {
+        window.open("/indexm.html","_self");
+      }     
+  }, true);    
+
+  window.addEventListener("resize", function() {
+      if (window.innerWidth>1700) {
+        //window.open("/index.html","_self");
+      } else if ((window.innerWidth<1700) && (window.innerWidth>800)) {
+        window.open("/indext.html","_self");
+      } else if (window.innerWidth<800) {
+        window.open("/indexm.html","_self");
+      }     
+  }, true);  
+  </script>
+
+
+</head>
+<body>
+
+<div id="content">
+
+   <div class="master-table">
+
+          <img  id="wiz" src="/res/wiz.png">
+
+          <div id="MainBook" class="bookmark-cont">
+              <a href="http://yahoo.it">Search</a><br>
+              <a href="http://lightoff.net">Proxy</a><br>
+          </div>
+
+          <div id="SocialBook" class="bookmark-cont">
+              <h3>Social Book</h3>
+              <a href="http://x.com">X</a><br>
+              <a href="http://facebook.com">Facebook</a><br>
+          </div>      
+       
+   </div>            
+   <div class="master-table">
+
+          <br>
+
+          <div id="GameBook" class="bookmark-cont">
+              <h3>Game Book</h3>
+              <a href="https://store.steampowered.com">Steam</a>
+          </div>      
+
+          <div id="TravelBook" class="bookmark-cont">
+              <h3>Travel Book</h3>
+              <a href="http://booking.com">Booking.com</a><br>
+          </div>      
+
+          <div id="WorkBook" class="bookmark-cont">
+              <h3>Work Book</h3>
+              <a href="http://linkedin.com">Linkedin</a><br>
+              <a href="http://openbsd.org">OpenBSD</a><br>
+              <a href="http://openports.pl">OpenPorts</a><br>
+              <a href="http://regex101.com">Regex Playground</a><br>
+              <a href="http://guidgenerator.com">Guid Generator</a><br>
+              <a href="mailto:misc@openbsd.org">Misc</a><br>
+          </div>                           
+
+          <div id="DevBook" class="bookmark-cont">
+              <h3>Dev Book</h3>
+              <a href="http://console.hezner.cloud">Hetzner</a><br>
+              <a href="http://github.com/par7133">Github</a><br>
+          </div>                                                                                          
+                                                                                                                                                                                             
+   </div>            
+   <div class="master-table">
+
+          <br>
+
+           <div id="ReferenceBook" class="bookmark-cont">
+              <h3>Reference Book</h3>
+              <a href="http://php.net">PHP</a><br>              
+              <a href="http://tcl.tk">Tcl/Tk</a><br>
+              <a href="http://dev.mozilla.org">Mozilla Dev</a><br>
+              <a href="http://wikipedia.org">Wikipedia</a><br>
+              <a href="http://openedition.org">OpenEdition</a><br>
+              <a href="http://list.openbsd.org">Mailing Lists</a><br>
+              <a href="http://marc.info">Marc.info</a><br>
+              <a href="http://undeadly.org">Undeadly</a><br>
+          </div>      
+
+           <div id="PersonalBook" class="bookmark-cont">
+              <h3>Personal Book</h3>
+              <a href="http://mydeeds.org/dan">Mydeeds</a><br> 
+              <a href="http://log.mydeeds.org/dan">Blog</a><br>
+              <a href="http://bsdload.com">BSDload</a><br>
+          </div>            
+
+           <div id="5ModeBook" class="bookmark-cont">
+              <h3>5mode Book</h3>
+              <a href="http://5mode.com">5 Mode</a><br>
+              <a href="http://ohy.ee">Ohy Search</a><br>
+              <a href="http://code.5mode.com">Repo</a><br>              
+              <a href="mailto:marketing@5mode.com">Marketing</a><br> 
+              <a href="mailto:support@5mode.com">Feedback</a><br>                   
+              <br><br>           
+              <a href="http://5mode.net/l/dona1" class="donate">Donate!</a><br>              
+          </div>      
+
+          <div style="clear:both;margin:auto;">          
+          <br><br><br><br>                                 
+          </div>
+          
+    </div>
+                                                                                  
+</div>
+
+</body>
+</html>
