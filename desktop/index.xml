@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+
+<!-- File name: index.xml (root)
+BSD 3-Clause License
+
+Copyright (c) 2021, 2024, 5 Mode
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<CONTENT>
+<ITEM>
+    <ID>1</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Search</CAPTION>
+    <URL>http://yahoo.it</URL>
+    <TYPE>MainBook</TYPE>
+    <INDEX>1</INDEX>
+</ITEM>
+<ITEM>
+    <ID>2</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Proxy</CAPTION>
+    <URL>http://lightoff.net</URL>
+    <TYPE>MainBook</TYPE>
+    <INDEX>2</INDEX>
+</ITEM>
+<ITEM>
+    <ID>3</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>X</CAPTION>
+    <URL>http://x.com</URL>
+    <TYPE>SocialBook</TYPE>
+    <INDEX>3</INDEX>
+</ITEM>
+<ITEM>
+    <ID>4</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Facebook</CAPTION>
+    <URL>http://facebook.com</URL>
+    <TYPE>SocialBook</TYPE>
+    <INDEX>4</INDEX>
+</ITEM>
+<ITEM>
+    <ID>5</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Steam</CAPTION>
+    <URL>https://store.steampowered.com</URL>
+    <TYPE>GameBook</TYPE>
+    <INDEX>5</INDEX>
+</ITEM>
+<ITEM>
+    <ID>6</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Booking.com</CAPTION>
+    <URL>http://booking.com</URL>
+    <TYPE>TravelBook</TYPE>
+    <INDEX>6</INDEX>
+</ITEM>
+<ITEM>
+    <ID>7</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Linkedin.com</CAPTION>
+    <URL>http://linkedin.com</URL>
+    <TYPE>WorkBook</TYPE>
+    <INDEX>7</INDEX>
+</ITEM>
+<ITEM>
+    <ID>8</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>OpenBSD</CAPTION>
+    <URL>http://openbsd.org</URL>
+    <TYPE>WorkBook</TYPE>
+    <INDEX>8</INDEX>
+</ITEM>
+<ITEM>
+    <ID>9</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>OpenPorts</CAPTION>
+    <URL>http://openports.pl</URL>
+    <TYPE>WorkBook</TYPE>
+    <INDEX>9</INDEX>
+</ITEM>
+<ITEM>
+    <ID>10</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Misc</CAPTION>
+    <URL>mailto:misc@openbsd.org</URL>
+    <TYPE>WorkBook</TYPE>
+    <INDEX>10</INDEX>
+</ITEM>
+<ITEM>
+    <ID>11</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Hetzner</CAPTION>
+    <URL>http://hezner.cloud</URL>
+    <TYPE>DevBook</TYPE>
+    <INDEX>11</INDEX>
+</ITEM>
+<ITEM>
+    <ID>12</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Github</CAPTION>
+    <URL>http://github.com/par7133</URL>
+    <TYPE>DevBook</TYPE>
+    <INDEX>12</INDEX>
+</ITEM>
+<ITEM>
+    <ID>13</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Regex Playground</CAPTION>
+    <URL>http://regex101.com</URL>
+    <TYPE>DevBook</TYPE>
+    <INDEX>13</INDEX>
+</ITEM>
+<ITEM>
+    <ID>14</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Guid Generator</CAPTION>
+    <URL>http://guidgenerator.com</URL>
+    <TYPE>DevBook</TYPE>
+    <INDEX>14</INDEX>
+</ITEM>
+<ITEM>
+    <ID>15</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>PHP</CAPTION>
+    <URL>http://php.net</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>15</INDEX>
+</ITEM>
+<ITEM>
+    <ID>16</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Tcl/Tk</CAPTION>
+    <URL>http://tcl.tk</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>16</INDEX>
+</ITEM>
+<ITEM>
+    <ID>17</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Mozilla Dev</CAPTION>
+    <URL>http://dev.mozilla.org</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>17</INDEX>
+</ITEM>
+<ITEM>
+    <ID>18</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Wikipedia</CAPTION>
+    <URL>http://wikipedia.org</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>18</INDEX>
+</ITEM>
+<ITEM>
+    <ID>19</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>OpenEdition</CAPTION>
+    <URL>http://openedition.org</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>19</INDEX>
+</ITEM>
+<ITEM>
+    <ID>20</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Mailing Lists</CAPTION>
+    <URL>http://list.openbsd.org</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>20</INDEX>
+</ITEM>
+<ITEM>
+    <ID>21</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Marc Info</CAPTION>
+    <URL>http://marc.info</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>21</INDEX>
+</ITEM>
+<ITEM>
+    <ID>22</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Undeadly</CAPTION>
+    <URL>http://undeadly.org</URL>
+    <TYPE>ReferenceBook</TYPE>
+    <INDEX>22</INDEX>
+</ITEM>
+<ITEM>
+    <ID>23</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Mydeeds</CAPTION>
+    <URL>http://mydeeds.org/dan</URL>
+    <TYPE>PersonalBook</TYPE>
+    <INDEX>23</INDEX>
+</ITEM>
+<ITEM>
+    <ID>24</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Blog</CAPTION>
+    <URL>http://log.mydeeds.org/dan</URL>
+    <TYPE>PersonalBook</TYPE>
+    <INDEX>24</INDEX>
+</ITEM>
+<ITEM>
+    <ID>25</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>BSDLoad</CAPTION>
+    <URL>http://bsdload.com</URL>
+    <TYPE>PersonalBook</TYPE>
+    <INDEX>25</INDEX>
+</ITEM>
+<ITEM>
+    <ID>26</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>5 Mode</CAPTION>
+    <URL>http://5mode.com</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>26</INDEX>
+</ITEM>
+<ITEM>
+    <ID>27</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Ohy Search</CAPTION>
+    <URL>http://ohy.ee</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>27</INDEX>
+</ITEM>
+<ITEM>
+    <ID>28</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Repo</CAPTION>
+    <URL>http://code.5mode.com</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>28</INDEX>
+</ITEM>
+<ITEM>
+    <ID>29</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Marketing</CAPTION>
+    <URL>https://5mode.com/marketing.html</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>29</INDEX>
+</ITEM>
+<ITEM>
+    <ID>30</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Support</CAPTION>
+    <URL>mailto:support@5mode.com</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>30</INDEX>
+</ITEM>
+</CONTENT>
