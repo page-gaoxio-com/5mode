@@ -262,17 +262,33 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <ITEM>
     <ID>29</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Marketing</CAPTION>
-    <URL>https://5mode.com/marketing.html</URL>
+    <CAPTION>Digital Address</CAPTION>
+    <URL>http://digitaladdr.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>29</INDEX>
 </ITEM>
 <ITEM>
     <ID>30</ID>
     <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Expiring Site</CAPTION>
+    <URL>http://expiring.site</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>30</INDEX>
+</ITEM>
+<ITEM>
+    <ID>31</ID>
+    <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Marketing</CAPTION>
+    <URL>https://5mode.com/marketing.html</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>31</INDEX>
+</ITEM>
+<ITEM>
+    <ID>32</ID>
+    <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Support</CAPTION>
     <URL>mailto:support@5mode.com</URL>
     <TYPE>5modeBook</TYPE>
-    <INDEX>30</INDEX>
+    <INDEX>32</INDEX>
 </ITEM>
 </CONTENT>
