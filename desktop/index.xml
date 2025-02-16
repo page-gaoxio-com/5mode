@@ -39,7 +39,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>1</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Search</CAPTION>
-    <URL>http://yahoo.it</URL>
+    <URL>https://swisscows.com/en/web?query=https://5mode.com</URL>
     <TYPE>MainBook</TYPE>
     <INDEX>1</INDEX>
 </ITEM>
@@ -47,7 +47,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>2</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Proxy</CAPTION>
-    <URL>http://lightoff.net</URL>
+    <URL>https://lightoff.net</URL>
     <TYPE>MainBook</TYPE>
     <INDEX>2</INDEX>
 </ITEM>
@@ -55,7 +55,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>3</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>X</CAPTION>
-    <URL>http://x.com</URL>
+    <URL>https://x.com</URL>
     <TYPE>SocialBook</TYPE>
     <INDEX>3</INDEX>
 </ITEM>
@@ -63,7 +63,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>4</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Facebook</CAPTION>
-    <URL>http://facebook.com</URL>
+    <URL>https://facebook.com</URL>
     <TYPE>SocialBook</TYPE>
     <INDEX>4</INDEX>
 </ITEM>
@@ -79,7 +79,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>6</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Booking.com</CAPTION>
-    <URL>http://booking.com</URL>
+    <URL>https://booking.com</URL>
     <TYPE>TravelBook</TYPE>
     <INDEX>6</INDEX>
 </ITEM>
@@ -87,7 +87,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>7</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Linkedin.com</CAPTION>
-    <URL>http://linkedin.com</URL>
+    <URL>https://linkedin.com</URL>
     <TYPE>WorkBook</TYPE>
     <INDEX>7</INDEX>
 </ITEM>
@@ -95,7 +95,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>8</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>OpenBSD</CAPTION>
-    <URL>http://openbsd.org</URL>
+    <URL>https://openbsd.org</URL>
     <TYPE>WorkBook</TYPE>
     <INDEX>8</INDEX>
 </ITEM>
@@ -103,7 +103,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>9</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>OpenPorts</CAPTION>
-    <URL>http://openports.pl</URL>
+    <URL>https://openports.pl</URL>
     <TYPE>WorkBook</TYPE>
     <INDEX>9</INDEX>
 </ITEM>
@@ -119,7 +119,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>11</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Hetzner</CAPTION>
-    <URL>http://hezner.cloud</URL>
+    <URL>https://hezner.cloud</URL>
     <TYPE>DevBook</TYPE>
     <INDEX>11</INDEX>
 </ITEM>
@@ -127,7 +127,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>12</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Github</CAPTION>
-    <URL>http://github.com/par7133</URL>
+    <URL>https://github.com/par7133</URL>
     <TYPE>DevBook</TYPE>
     <INDEX>12</INDEX>
 </ITEM>
@@ -135,7 +135,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>13</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Regex Playground</CAPTION>
-    <URL>http://regex101.com</URL>
+    <URL>https://regex101.com</URL>
     <TYPE>DevBook</TYPE>
     <INDEX>13</INDEX>
 </ITEM>
@@ -143,7 +143,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>14</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Guid Generator</CAPTION>
-    <URL>http://guidgenerator.com</URL>
+    <URL>https://guidgenerator.com</URL>
     <TYPE>DevBook</TYPE>
     <INDEX>14</INDEX>
 </ITEM>
@@ -151,7 +151,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>15</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>PHP</CAPTION>
-    <URL>http://php.net</URL>
+    <URL>https://php.net</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>15</INDEX>
 </ITEM>
@@ -159,7 +159,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>16</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Tcl/Tk</CAPTION>
-    <URL>http://tcl.tk</URL>
+    <URL>https://tcl.tk</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>16</INDEX>
 </ITEM>
@@ -167,7 +167,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>17</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Mozilla Dev</CAPTION>
-    <URL>http://dev.mozilla.org</URL>
+    <URL>https://dev.mozilla.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>17</INDEX>
 </ITEM>
@@ -175,7 +175,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>18</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Wikipedia</CAPTION>
-    <URL>http://wikipedia.org</URL>
+    <URL>https://wikipedia.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>18</INDEX>
 </ITEM>
@@ -183,7 +183,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>19</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>OpenEdition</CAPTION>
-    <URL>http://openedition.org</URL>
+    <URL>https://openedition.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>19</INDEX>
 </ITEM>
@@ -191,7 +191,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>20</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Mailing Lists</CAPTION>
-    <URL>http://list.openbsd.org</URL>
+    <URL>https://list.openbsd.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>20</INDEX>
 </ITEM>
@@ -199,7 +199,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>21</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Marc Info</CAPTION>
-    <URL>http://marc.info</URL>
+    <URL>https://marc.info</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>21</INDEX>
 </ITEM>
@@ -207,7 +207,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>22</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Undeadly</CAPTION>
-    <URL>http://undeadly.org</URL>
+    <URL>https://undeadly.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>22</INDEX>
 </ITEM>
@@ -223,7 +223,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>24</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Mydeeds</CAPTION>
-    <URL>http://mydeeds.org/dan</URL>
+    <URL>https://mydeeds.org/dan</URL>
     <TYPE>PersonalBook</TYPE>
     <INDEX>24</INDEX>
 </ITEM>
@@ -231,7 +231,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>25</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Blog</CAPTION>
-    <URL>http://log.mydeeds.org/dan</URL>
+    <URL>https://log.mydeeds.org/dan</URL>
     <TYPE>PersonalBook</TYPE>
     <INDEX>25</INDEX>
 </ITEM>
@@ -239,7 +239,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>26</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>BSDLoad</CAPTION>
-    <URL>http://bsdload.com</URL>
+    <URL>https://bsdload.com</URL>
     <TYPE>PersonalBook</TYPE>
     <INDEX>26</INDEX>
 </ITEM>
@@ -247,7 +247,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>27</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>5 Mode</CAPTION>
-    <URL>http://5mode.com</URL>
+    <URL>https://5mode.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>27</INDEX>
 </ITEM>
@@ -255,7 +255,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>28</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Ohy Search</CAPTION>
-    <URL>http://ohy.ee</URL>
+    <URL>https://ohy.ee</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>28</INDEX>
 </ITEM>
@@ -263,7 +263,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>29</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Repo</CAPTION>
-    <URL>http://code.5mode.com</URL>
+    <URL>https://code.5mode.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>29</INDEX>
 </ITEM>
@@ -271,7 +271,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>30</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Digital Address</CAPTION>
-    <URL>http://digitaladdr.com</URL>
+    <URL>https://digitaladdr.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>30</INDEX>
 </ITEM>
@@ -279,7 +279,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <ID>31</ID>
     <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Expiring Site</CAPTION>
-    <URL>http://expiring.site</URL>
+    <URL>https://expiring.site</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>31</INDEX>
 </ITEM>
