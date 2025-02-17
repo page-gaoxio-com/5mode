@@ -125,6 +125,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
           <div id="MainBook" class="bookmark-cont">
           
+              <a href="#" onclick="window.open(prompt('Open:'), '_self');">Open</a><br/> 
+          
               <xsl:for-each select="ITEM[TYPE='MainBook']">
               
               <a>
