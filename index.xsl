@@ -73,7 +73,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->  
   
-  <title>about:page</title>
+  <title>Page</title>
 
   <link rel="shortcut icon" href="/favicon.ico" />
 
