@@ -259,7 +259,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
               </xsl:for-each>
 
               <br/><br/>           
-              <a href="http://5mode.net/l/dona1" class="donate">Donate!</a><br/>              
+              <a href="http://gaox.io/l/dona1" class="donate">Donate!</a><br/>              
                                                                                                                                                                                                                                                                                                                                                                               
           </div>      
 
