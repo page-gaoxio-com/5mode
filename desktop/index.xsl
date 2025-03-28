@@ -114,6 +114,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   //]]>
   </script>
 
+  <script>
+  //<![CDATA[
+  function openThatLink() {
+    l = prompt('Open:');
+    if (l) {
+       window.open(l, '_self');
+    }   
+  }
+  //]]>
+  </script>
+
 </head>
 <BODY>
 
@@ -125,7 +136,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
           <div id="MainBook" class="bookmark-cont">
           
-              <a href="#" onclick="window.open(prompt('Open:'), '_self');">Open</a><br/> 
+              <a href="#" onclick="openThatLink();">Open</a><br/>
           
               <xsl:for-each select="ITEM[TYPE='MainBook']">
               
