@@ -78,7 +78,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <link rel="shortcut icon" href="/favicon.ico" />
 
   <meta name="description" content="Welcome to the starting page of your web browser!"/>
-  <meta name="keywords" content="5 Mode,about:page"/>
+  <meta name="keywords" content="5 mode,page"/>
   <meta name="robots" content="index,follow"/>
   <meta name="author" content="5 Mode"/>
   
@@ -114,6 +114,15 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   //]]>
   </script>
 
+ <script>
+ function openThatLink() {
+    l = prompt('Open:');
+    if (l) {
+       window.open(l, '_self');
+    }   
+ }
+ </script>
+
 </head>
 <BODY>
 
@@ -125,7 +134,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
           <div id="MainBook" class="bookmark-cont">
 
-              <a href="#" onclick="window.open(prompt('Open:'), '_self');">Open</a><br/>           
+              <a href="#" onclick="openThatLink();">Open</a><br/>           
                               
               <xsl:for-each select="ITEM[TYPE='MainBook']">
               
