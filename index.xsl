@@ -115,13 +115,15 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   </script>
 
  <script>
+ //<![CDATA[
  function openThatLink() {
     l = prompt('Open:');
     if (l) {
        window.open(l, '_self');
     }   
- }
- </script>
+  }
+  //]]>
+  </script>
 
 </head>
 <BODY>
