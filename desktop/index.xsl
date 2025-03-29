@@ -119,6 +119,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   function openThatLink() {
     l = prompt('Open:');
     if (l) {
+       if (l.substr(0,4) !== 'http') {
+         l = "http://" + l;
+       }
        window.open(l, '_self');
     }   
   }
