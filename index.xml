@@ -150,145 +150,153 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <ITEM>
     <ID>15</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>PHP</CAPTION>
-    <URL>https://php.net</URL>
-    <TYPE>ReferenceBook</TYPE>
+    <CAPTION>whatismybrowser</CAPTION>
+    <URL>https://whatismybrowser.com</URL>
+    <TYPE>DevBook</TYPE>
     <INDEX>15</INDEX>
 </ITEM>
 <ITEM>
     <ID>16</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Tcl/Tk</CAPTION>
-    <URL>https://tcl.tk</URL>
+    <CAPTION>PHP</CAPTION>
+    <URL>https://php.net</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>16</INDEX>
 </ITEM>
 <ITEM>
     <ID>17</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Mozilla Dev</CAPTION>
-    <URL>https://dev.mozilla.org</URL>
+    <CAPTION>Tcl/Tk</CAPTION>
+    <URL>https://tcl.tk</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>17</INDEX>
 </ITEM>
 <ITEM>
     <ID>18</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Wikipedia</CAPTION>
-    <URL>https://wikipedia.org</URL>
+    <CAPTION>Mozilla Dev</CAPTION>
+    <URL>https://dev.mozilla.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>18</INDEX>
 </ITEM>
 <ITEM>
     <ID>19</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>OpenEdition</CAPTION>
-    <URL>https://openedition.org</URL>
+    <CAPTION>Wikipedia</CAPTION>
+    <URL>https://wikipedia.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>19</INDEX>
 </ITEM>
 <ITEM>
     <ID>20</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Mailing Lists</CAPTION>
-    <URL>https://list.openbsd.org</URL>
+    <CAPTION>OpenEdition</CAPTION>
+    <URL>https://openedition.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>20</INDEX>
 </ITEM>
 <ITEM>
     <ID>21</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Marc Info</CAPTION>
-    <URL>https://marc.info</URL>
+    <CAPTION>Mailing Lists</CAPTION>
+    <URL>https://list.openbsd.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>21</INDEX>
 </ITEM>
 <ITEM>
     <ID>22</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Undeadly</CAPTION>
-    <URL>https://undeadly.org</URL>
+    <CAPTION>Marc Info</CAPTION>
+    <URL>https://marc.info</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>22</INDEX>
 </ITEM>
 <ITEM>
     <ID>23</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>ngrams</CAPTION>
-    <URL>https://books.google.com/ngrams</URL>
+    <CAPTION>Undeadly</CAPTION>
+    <URL>https://undeadly.org</URL>
     <TYPE>ReferenceBook</TYPE>
     <INDEX>23</INDEX>
 </ITEM>
 <ITEM>
     <ID>24</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Site Dan</CAPTION>
-    <URL>https://site.gaoxio.com/dan</URL>
-    <TYPE>PersonalBook</TYPE>
+    <CAPTION>ngrams</CAPTION>
+    <URL>https://books.google.com/ngrams</URL>
+    <TYPE>ReferenceBook</TYPE>
     <INDEX>24</INDEX>
 </ITEM>
 <ITEM>
     <ID>25</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Blog Dan</CAPTION>
-    <URL>https://blog.gaoxio.com/dan</URL>
+    <CAPTION>Site Dan</CAPTION>
+    <URL>https://site.gaoxio.com/dan</URL>
     <TYPE>PersonalBook</TYPE>
     <INDEX>25</INDEX>
 </ITEM>
 <ITEM>
     <ID>26</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>BSD</CAPTION>
-    <URL>https://bsd.gaoxio.com</URL>
+    <CAPTION>Blog Dan</CAPTION>
+    <URL>https://blog.gaoxio.com/dan</URL>
     <TYPE>PersonalBook</TYPE>
     <INDEX>26</INDEX>
 </ITEM>
 <ITEM>
     <ID>27</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>5 Mode</CAPTION>
-    <URL>https://5mode.com</URL>
-    <TYPE>5modeBook</TYPE>
+    <CAPTION>BSD</CAPTION>
+    <URL>https://bsd.gaoxio.com</URL>
+    <TYPE>PersonalBook</TYPE>
     <INDEX>27</INDEX>
 </ITEM>
 <ITEM>
     <ID>28</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Dir</CAPTION>
-    <URL>https://dir.gaoxio.com</URL>
+    <CAPTION>5 Mode</CAPTION>
+    <URL>https://5mode.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>28</INDEX>
 </ITEM>
 <ITEM>
     <ID>29</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Repo</CAPTION>
-    <URL>https://code.5mode.com</URL>
+    <CAPTION>Dir</CAPTION>
+    <URL>https://dir.gaoxio.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>29</INDEX>
 </ITEM>
 <ITEM>
     <ID>30</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Digital Address</CAPTION>
-    <URL>https://digitaladdr.com</URL>
+    <CAPTION>Repo</CAPTION>
+    <URL>https://code.5mode.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>30</INDEX>
 </ITEM>
 <ITEM>
     <ID>31</ID>
     <DATE>Fri October 29th 2024</DATE>
-    <CAPTION>Marketing</CAPTION>
-    <URL>https://5mode.com/marketing.html</URL>
+    <CAPTION>Digital Address</CAPTION>
+    <URL>https://digitaladdr.com</URL>
     <TYPE>5modeBook</TYPE>
     <INDEX>31</INDEX>
 </ITEM>
 <ITEM>
     <ID>32</ID>
     <DATE>Fri October 29th 2024</DATE>
+    <CAPTION>Marketing</CAPTION>
+    <URL>https://5mode.com/marketing.html</URL>
+    <TYPE>5modeBook</TYPE>
+    <INDEX>32</INDEX>
+</ITEM>
+<ITEM>
+    <ID>33</ID>
+    <DATE>Fri October 29th 2024</DATE>
     <CAPTION>Support</CAPTION>
     <URL>mailto:support@5mode.com</URL>
     <TYPE>5modeBook</TYPE>
-    <INDEX>32</INDEX>
+    <INDEX>33</INDEX>
 </ITEM>
 </CONTENT>
